@@ -34,7 +34,10 @@ public class Datatypes {
         // Concatenate
 
         String name1 = "Piyush";
-        
+        String name2 = "Bhatt";
+        String fullname = name1 + " " + name2;
+
+        System.out.println(fullname);
 
 
 
