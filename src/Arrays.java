@@ -8,6 +8,12 @@ public class Arrays {
         // int eng = 89;
 
         int [] marks = new int[4];
+       
+        marks[0] = 97;
+        marks[1] = 90;
+        marks[2] = 89;
+        marks[3] = 88;
+        marks[4] = 100;
 
 
     }
