@@ -1,4 +1,4 @@
-public class App {
+public class Datatypes {
     public static void main(String[] args)  {
         
         // Data types in java
