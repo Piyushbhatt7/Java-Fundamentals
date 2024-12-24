@@ -14,6 +14,8 @@ public class App {
         int phone = 1234567890;
         long phone2 = 12345678900L;
         float pi = 3.14F;
+        char letter = 'A';
+        
 
 
     }
