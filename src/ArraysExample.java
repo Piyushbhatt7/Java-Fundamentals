@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class ArraysExample {
     
     public static void main(String[] args) {
@@ -10,20 +9,25 @@ public class ArraysExample {
         // length
         // sort
 
-        int [] marks = new int[4];
+        // int [] marks = new int[4];
        
-        marks[0] = 97;
-        marks[1] = 90;
-        marks[2] = 89;
-        marks[3] = 88;
+        // marks[0] = 97;
+        // marks[1] = 9;
+        // marks[2] = 89;
+        // marks[3] = 88;
        
  
         //System.out.println(marks[3]);
         //System.out.println(marks.length);
 
-        System.out.println("Before sorting :" + marks[0]);
-        Arrays.sort(marks);
-        System.out.println("After sorting:" + marks[0]);
+        // System.out.println("Before sorting :" + marks[0]);
+        // Arrays.sort(marks);
+        // System.out.println("After sorting:" + marks[0]);
+
+        int [] marks = {97, 89, 88, 9};
+        
+        int [][] finalMarks = {{2,3,5,6}, {90,89,78,76}};         // 2D array
+        System.out.println(finalMarks[1][2]);
 
 
     }
