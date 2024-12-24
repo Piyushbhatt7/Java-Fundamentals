@@ -15,7 +15,9 @@ public class App {
         long phone2 = 12345678900L;
         float pi = 3.14F;
         char letter = 'A';
+        boolean isAdult = true;
         
+
 
 
     }
