@@ -30,6 +30,13 @@ public class Datatypes {
         System.out.println(name.length());
 
 
+        // Strings
+        // Concatenate
+
+        String name1 = "Piyush";
+        
+
+
 
 
 
