@@ -23,6 +23,9 @@ public class App {
         // boolean isAdult = true;
 
 
+        // Non-premetive datatypes in java
+
+
 
 
 
