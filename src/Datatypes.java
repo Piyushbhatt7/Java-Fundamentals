@@ -42,9 +42,13 @@ public class Datatypes {
          
         // Strings
         // charAt
+        // replace
 
         String name = "Piyush";
-        System.out.println(name.charAt(5));
+       // System.out.println(name.charAt(5));
+        String name2 = name.replace('p', 'b');
+        System.out.println(name2);
+
 
 
 
