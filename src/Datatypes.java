@@ -50,7 +50,8 @@ public class Datatypes {
         String name2 = name.replace('P', 'b');
         System.out.println(name2);
 
-        
+        String name3 = "Piyush and Sasha";
+        System.out.println(name3.substring(0,3)); 
 
 
 
