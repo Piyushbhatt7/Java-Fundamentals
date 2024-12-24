@@ -17,6 +17,7 @@ public class Arrays {
        
  
         System.out.println(marks[3]);
+        System.out.println(marks.length);
 
     }
 }
