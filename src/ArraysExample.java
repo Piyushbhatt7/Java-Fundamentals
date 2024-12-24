@@ -9,6 +9,8 @@ public class ArraysExample {
         // length
         // sort
         // casting
+        // constant
+
 
         // int [] marks = new int[4];
        
@@ -32,17 +34,22 @@ public class ArraysExample {
         
         // casting
 
-        double price = 100.0;
-        double finalPrice = price+18;  // double can store int value and it is called Implicit casting
+        // double price = 100.0;
+        // double finalPrice = price+18;  // double can store int value and it is called Implicit casting
 
-        System.out.println(finalPrice);
+        // System.out.println(finalPrice);
 
         // int p = 100;
         // int Fp = p + 18.0;              // casting occur because a glass can fill a bucket but a bucket can't fill a glass
 
-        int p = 100;
-        int Fp = p + (int)18.0;          // by Explicit casting we can store double value in int and not count the decimal value
-        System.out.println(Fp);
+        // int p = 100;
+        // int Fp = p + (int)18.0;          // by Explicit casting we can store double value in int and not count the decimal value
+        // System.out.println(Fp);
 
+        // const
+        
+       final float PI = 31.4F;   // we can't change the value of constant variable  constant variable is written in capital letter by convention of java coders
+                         
+  
     }
 }
