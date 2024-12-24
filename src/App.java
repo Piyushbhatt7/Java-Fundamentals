@@ -8,7 +8,7 @@ public class App {
         // float - 4
         // double - 8
         // char - 2
-        // boolean
+        // boolean - 1 true/false
 
     }
 }
