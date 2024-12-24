@@ -14,7 +14,8 @@ public class Arrays {
         marks[2] = 89;
         marks[3] = 88;
         marks[4] = 100;
-
+ 
+        System.out.println(marks);
 
     }
 }
