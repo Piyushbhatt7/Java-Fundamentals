@@ -26,6 +26,7 @@ public class Datatypes {
         // Non-premetive datatypes in java
 
         String name = "Piyush";    // not fixed size
+        String friend = new String("Priya");  // we can also create string using new keyword
         System.out.println(name.length());
 
 
