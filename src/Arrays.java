@@ -6,6 +6,7 @@ public class Arrays {
         // int physics = 97;
         // int chem = 56;
         // int eng = 89;
+        // length
 
         int [] marks = new int[4];
        
