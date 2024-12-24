@@ -33,14 +33,18 @@ public class Datatypes {
         // Strings
         // Concatenate
 
-        String name1 = "Piyush";
-        String name2 = "Bhatt";
-        String fullname = name1 + " " + name2;
+        // String name1 = "Piyush";
+        // String name2 = "Bhatt";
+        // String fullname = name1 + " " + name2;
 
-        System.out.println(fullname);
+        // System.out.println(fullname);
 
+         
+        // Strings
+        // charAt
 
-
+        String name = "Piyush";
+        System.out.println(name.charAt(0));
 
 
 
