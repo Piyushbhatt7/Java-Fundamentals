@@ -10,12 +10,18 @@ public class App {
         // char - 2
         // boolean - 1 true/false
 
+
+    
+        // premetive data types in java
+
         // byte age = 30;
         // int phone = 1234567890;
         // long phone2 = 12345678900L;
-        // float pi = 3.14F;                       // premetive data types in java
+        // float pi = 3.14F;                       
         // char letter = 'A';
         // boolean isAdult = true;
+
+
 
 
 
