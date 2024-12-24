@@ -10,8 +10,9 @@ public class App {
         // char - 2
         // boolean - 1 true/false
 
-        bytes age = 30;
-        
+        byte age = 30;
+        int phone = 1234567890;
+        int
 
     }
 }
