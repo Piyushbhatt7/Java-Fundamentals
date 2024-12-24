@@ -48,8 +48,8 @@ public class ArraysExample {
 
         // const
         
-       final float PI = 31.4F;   // we can't change the value of constant variable  constant variable is written in capital letter by convention of java coders
-                         
+      // final float PI = 31.4F;   // we can't change the value of constant variable  constant variable is written in capital letter by convention of java coders
+                
   
     }
 }
