@@ -41,7 +41,7 @@ public class ArraysExample {
         // int Fp = p + 18.0;              // casting occur because a glass can fill a bucket but a bucket can't fill a glass
 
         int p = 100;
-        int Fp = p + (int)18.0;          // by Explicit casting we can store double value in int
+        int Fp = p + (int)18.0;          // by Explicit casting we can store double value in int and not count the decimal value
         System.out.println(Fp);
 
     }
