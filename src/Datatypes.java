@@ -44,7 +44,7 @@ public class Datatypes {
         // charAt
 
         String name = "Piyush";
-        System.out.println(name.charAt(0));
+        System.out.println(name.charAt(5));
 
 
 
