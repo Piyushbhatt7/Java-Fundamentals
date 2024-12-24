@@ -5,7 +5,7 @@ public class App {
         // short - 2
         // int - 4
         // long int - 8
-        // ff
+        // float - 4
 
     }
 }
