@@ -26,6 +26,7 @@ public class App {
         // Non-premetive datatypes in java
 
         String name = "Piyush";
+        System.out.println(name.length());
 
 
 
