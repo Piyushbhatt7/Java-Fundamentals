@@ -45,13 +45,13 @@ public class Datatypes {
         // replace
         // substring
 
-        String name = "Piyush";
+       //String name = "Piyush";
        // System.out.println(name.charAt(5));
-        String name2 = name.replace('P', 'b');
-        System.out.println(name2);
+        // String name2 = name.replace('P', 'b');
+        // System.out.println(name2);
 
         String name3 = "Piyush and Sasha";
-        System.out.println(name3.substring(0,3)); 
+        System.out.println(name3.substring(0,4)); 
 
 
 
