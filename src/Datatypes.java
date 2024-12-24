@@ -46,7 +46,7 @@ public class Datatypes {
 
         String name = "Piyush";
        // System.out.println(name.charAt(5));
-        String name2 = name.replace('p', 'b');
+        String name2 = name.replace('P', 'b');
         System.out.println(name2);
 
 
