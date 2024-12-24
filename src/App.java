@@ -12,7 +12,8 @@ public class App {
 
         byte age = 30;
         int phone = 1234567890;
-        int
+        long phone2 = 12345678900L;
+
 
     }
 }
