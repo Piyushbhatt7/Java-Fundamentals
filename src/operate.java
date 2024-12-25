@@ -62,6 +62,7 @@ public class operate {
     // logical operator
     // && operator
     // || operator
+    // ! operator
 
     int a = 30;
     int b = 20;
