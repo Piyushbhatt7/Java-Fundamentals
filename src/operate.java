@@ -42,7 +42,7 @@ public class operate {
 
       // Logical operator
 
-      boolean isSunUp = true;
+      boolean isSunUp = false;
       if(isSunUp == true){
         System.out.println("Good Morning");
       }
