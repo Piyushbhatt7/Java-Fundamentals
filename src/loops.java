@@ -19,5 +19,15 @@ public class loops {
         //     System.out.println(i);
         //     i--;
         // }
+
+        // do while loop
+
+        int a = 100;
+
+        do{
+            System.out.println(a);
+            a--;
+        }
+        while(a>=100);
     }
 }
