@@ -43,13 +43,13 @@ public class calculator{
         if(operator.equals("/")){
 
             sum = num1 / num2;
-            System.out.println("Sum of " + num1 + " and " + num2 + " is = " + sum);
+            System.out.println("Division of " + num1 + " and " + num2 + " is = " + sum);
         }
 
-        if(operator.equals("+")){
+        if(operator.equals("%")){
 
-            sum = num1 + num2;
-            System.out.println("Sum of " + num1 + " and " + num2 + " is = " + sum);
+            sum = num1 % num2;
+            System.out.println("Modulor of " + num1 + " and " + num2 + " is = " + sum);
         }
 
     }
