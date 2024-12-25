@@ -16,7 +16,8 @@ public class calculator{
         Scanner sc2 = new Scanner(System.in);
         num2 = sc2.nextInt();
 
-        System.out.println("EChoose any one operator: ");
-        
+        System.out.println("EChoose any one operator: ('+, -, *, /, %')");
+        Scanner sc3 = new Scanner(System.in);
+
     }
 }
