@@ -63,8 +63,8 @@ public class operate {
     // && operator
     // || operator
 
-    int a = 60;
-    int b = 20;
+    int a = 90;
+    int b = 80;
 
     // if(a<50 && b<50){
     //     System.out.println("Both are less than 50");
