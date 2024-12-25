@@ -15,6 +15,7 @@ public class calculator{
         System.out.println("Enter second number: ");
         Scanner sc2 = new Scanner(System.in);
         num2 = sc2.nextInt();
+
         
     }
 }
