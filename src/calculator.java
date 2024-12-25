@@ -7,6 +7,7 @@ public class calculator{
         
         int num1, num2;
         double sum;
+        String operator;
 
         System.out.println("Enter first number: ");
         Scanner sc1 = new Scanner(System.in);
@@ -18,6 +19,9 @@ public class calculator{
 
         System.out.println("EChoose any one operator: ('+, -, *, /, %')");
         Scanner sc3 = new Scanner(System.in);
+        operator = sc3.nextLine();
+
+        
 
     }
 }
