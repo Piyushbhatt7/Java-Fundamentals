@@ -1,4 +1,7 @@
 
+import java.util.Scanner;
+
+
 
 public class operate {
 
@@ -100,6 +103,11 @@ public class operate {
     // Switch Statment
 
   //  int day = 1; // 1- monday 2- tuesday 3- wednesday 4- thursday 5- friday 6- saturday 7- sunday
+  
+    System.out.println("Enter any number to check the day");
+    Scanner sc = new Scanner(System.in);
+    int day  = sc.nextInt();
+    
 
     switch(day){
         case 1: 
