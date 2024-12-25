@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class loops {
     
     public static void main(String[] args) {
@@ -22,12 +25,22 @@ public class loops {
 
         // do while loop
 
-        int a = 100;
+        // int a = 100;
 
-        do{
-            System.out.println(a); 
-            a--;
-        }
-        while(a>=1);
+        // do{
+        //     System.out.println(a); 
+        //     a--;
+        // }
+        // while(a>=1);
+
+         Scanner sc = new Scanner(System.in);
+   int number;  // already initialize with zero
+         do { 
+             System.out.println("Input a number");
+              number = sc.nextInt();
+             System.out.println("Here is your number: ");
+             System.out.println(number);
+         } while (number >= 0);
+         System.out.println("The End");
     }
 }
