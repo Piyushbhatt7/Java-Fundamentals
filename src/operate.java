@@ -31,6 +31,17 @@ public class operate {
        // System.out.println(Math.min(5, 6));
       //    System.out.println((int)(Math.random()*100));
 
+
+      // Comparission operator
+      // a =b
+      // a !=b
+      // a < b
+      // a > b
+      // a <= b
+      // a >= b
+      
+
+
       
 
     }
