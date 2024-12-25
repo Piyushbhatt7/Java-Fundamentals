@@ -9,6 +9,8 @@ public class calculator{
         double sum;
         String operator;
 
+        System.out.println("Welcome to Calculator 🤪\n");
+
         System.out.println("Enter first number: ");
         Scanner sc1 = new Scanner(System.in);
         num1 = sc1.nextInt();
