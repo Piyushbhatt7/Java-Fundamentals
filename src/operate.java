@@ -62,6 +62,17 @@ public class operate {
     // logical operator
     // && operator
     // || operator
+
+    int a = 60;
+    int b = 20;
+
+    // if(a<50 && b<50){
+    //     System.out.println("Both are less than 50");
+    // }
+
+    if(a<50 || b<50){
+        System.out.println("Both are less than 50");
+    }
       
 
     }
