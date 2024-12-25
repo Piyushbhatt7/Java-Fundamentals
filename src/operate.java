@@ -40,7 +40,16 @@ public class operate {
       // a <= b
       // a >= b
 
-      
+      // Logical operator
+
+      boolean isSunUp = true;
+      if(isSunUp == true){
+        System.out.println("Good Morning");
+      }
+
+      else {
+        System.out.println("Good Night");
+      }
 
 
       
