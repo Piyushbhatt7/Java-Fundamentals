@@ -42,16 +42,26 @@ public class operate {
 
       // Logical operator
 
-      boolean isSunUp = false;
-      if(isSunUp == true){
-        System.out.println("Good Morning");
-      }
+    //   boolean isSunUp = false;
+    //   if(isSunUp == true){
+    //     System.out.println("Good Morning");
+    //   }
 
-      else {
-        System.out.println("Good Night");
-      }
+    //   else {
+    //     System.out.println("Good Night");
+    //   }
 
 
+    // int age = 30;
+
+    // if(age > 18)
+    // System.out.println("Can vote");
+    // else
+    // System.out.println("Can't vote");
+ 
+    // logical operator
+    // && operator
+    // || operator
       
 
     }
