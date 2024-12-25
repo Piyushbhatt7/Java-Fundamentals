@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 
 public class operate {
 
@@ -83,21 +82,25 @@ public class operate {
     // System.out.println("is adult");
     // else
     // System.out.println("is not adult");
-    System.out.println("Enter the amount");
-    Scanner sc = new Scanner(System.in);
-    int cash = sc.nextInt();
-    if(cash < 10){
-         System.out.println("You can't buy anything");
-    }
+    // System.out.println("Enter the amount");
+    // Scanner sc = new Scanner(System.in);
+    // int cash = sc.nextInt();
+    // if(cash < 10){
+    //      System.out.println("You can't buy anything");
+    // }
 
-    else if (cash > 10 && cash < 50) {
-        System.out.println("You can buy a chocolate");
-    }
+    // else if (cash > 10 && cash < 50) {
+    //     System.out.println("You can buy a chocolate");
+    // }
 
-    else {
-        System.out.println("Can get both");
-    }
+    // else {
+    //     System.out.println("Can get both");
+    // }
       
+    // Switch Statment
 
-    }
+    int day = 1; // 1- monday
+
+     }
+
 }
