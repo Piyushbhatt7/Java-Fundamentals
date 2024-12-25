@@ -14,9 +14,10 @@ public class loops {
         //  }
 
         // while loop
-        int i = 100;
-        while(i>=1){
-            System.out.println(i);
-        }
+        // int i = 100;
+        // while(i>=1){
+        //     System.out.println(i);
+        //     i--;
+        // }
     }
 }
