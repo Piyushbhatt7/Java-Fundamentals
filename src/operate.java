@@ -64,16 +64,22 @@ public class operate {
     // || operator
     // ! operator
 
-    int a = 30;
-    int b = 20;
+    // int a = 30;
+    // int b = 20;
 
     // if(a<50 && b<50){
     //     System.out.println("Both are less than 50");
     // }
 
-    if(a<50 || b<50){
-        System.out.println("Both are less than 50");
-    }
+    // if(a<50 || b<50){
+    //     System.out.println("Both are less than 50");
+    // }
+
+    boolean isAdult = true;
+    if(isAdult == true)
+    System.out.println("is adult");
+    else
+    System.out.println("is not adult");
       
 
     }
