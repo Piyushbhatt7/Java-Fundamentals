@@ -28,6 +28,6 @@ public class loops {
             System.out.println(a);
             a--;
         }
-        while(a>=100);
+        while(a>=1);
     }
 }
