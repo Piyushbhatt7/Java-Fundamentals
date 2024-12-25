@@ -122,6 +122,7 @@ public class operate {
         break;
         case 7:
         System.out.println("Sunday");
+        break;;
         
         default:
         System.out.println("Invalid day");
