@@ -119,6 +119,7 @@ public class operate {
         break;
         case 6:
         System.out.println("Saturday");
+        break;
         case 7:
         System.out.println("Sunday");
         
