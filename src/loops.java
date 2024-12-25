@@ -8,5 +8,7 @@ public class loops {
        // 3. do-while loop
 
          // for loop
+
+         
     }
 }
