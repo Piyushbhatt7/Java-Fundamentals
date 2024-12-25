@@ -83,7 +83,7 @@ public class operate {
     // System.out.println("is adult");
     // else
     // System.out.println("is not adult");
-
+    System.out.println("Enter the amount");
     Scanner sc = new Scanner(System.in);
     int cash = sc.nextInt();
     if(cash < 10){
