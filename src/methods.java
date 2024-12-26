@@ -14,7 +14,7 @@ public class methods {
         // Methods in Java
 
         // printName("Aman");
-        sum(12, 45);
+      //  sum(12, 45);
 
     }
 
