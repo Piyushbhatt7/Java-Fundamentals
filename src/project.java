@@ -13,7 +13,10 @@ public class project {
         do { 
               System.out.println("Guess my number: ");
               int userNum = sc.nextInt();
-              
+              if(userNum == myNum){
+                System.out.println();
+              }
+
         } 
         while ();
     }
