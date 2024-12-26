@@ -8,6 +8,8 @@ public class methods {
         // Methods in Java
 
         printjava();
+        printjava();
+        printjava();
 
     }
 }
