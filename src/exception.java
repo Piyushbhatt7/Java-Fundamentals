@@ -2,6 +2,6 @@ public class exception {
     
     public static void main(String[] args) {
         
-        // Exception Handling
+        // Exception Handling Try and Catch
     }
 }
