@@ -30,5 +30,7 @@ public class project {
 
         } 
           while (userNum >= 0);
+
+          System.out.println("My number was: " + myNum);
     }
 }
