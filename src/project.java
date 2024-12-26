@@ -4,6 +4,7 @@ public class project {
 
     public static void main(String[] args){
            
+        int myNum = (int)Math.random()*100;
         
     }
 }
