@@ -18,6 +18,7 @@ public class methods {
     }
 
     public static void sum(int a, int b){
-        
+           int sum = a + b;
+           System.out.println(sum);
     }
 }
