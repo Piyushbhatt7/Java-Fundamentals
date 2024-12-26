@@ -18,6 +18,7 @@ public class project {
                userNum = sc.nextInt();
               if(userNum == myNum){
                 System.out.println("Woah! You guessed it right");
+                break;
               }
               else if(userNum > myNum) {
 
