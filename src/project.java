@@ -14,7 +14,7 @@ public class project {
               System.out.println("Guess my number: ");
               int userNum = sc.nextInt();
               if(userNum == myNum){
-                System.out.println();
+                System.out.println("Woah! You guessed it right");
               }
 
         } 
