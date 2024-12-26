@@ -10,6 +10,8 @@ public class exception {
             System.out.println(marks[4]);
          } 
          catch (Exception e) {
+
+            // do thing afetr catching
             System.out.println("The name is Aman");
         }
          
