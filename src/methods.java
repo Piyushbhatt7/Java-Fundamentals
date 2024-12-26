@@ -16,4 +16,8 @@ public class methods {
         // printName("Aman");
 
     }
+
+    public static void sum(int a, int b){
+        
+    }
 }
