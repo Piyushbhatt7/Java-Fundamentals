@@ -10,6 +10,8 @@ public class classes {
         String color;
         String type; // ballpoint, gel point
 
-        
+        public void write(){
+            System.out.println("Writimg something");
+        }
     }
 }
