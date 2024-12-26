@@ -22,7 +22,7 @@ public class project {
               }
               else if(userNum > myNum) {
 
-                System.out.println("Your umber is too large");
+                System.out.println("Your number is too large");
               }
 
               else {
