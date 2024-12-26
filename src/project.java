@@ -10,7 +10,7 @@ public class project {
     public static void main(String[] args){
         
         Scanner sc = new Scanner(System.in);
-        int myNum = (int)Math.random()*100;
+        int myNum = (int)(Math.random()*100);
         int userNum;
        
         do { 
