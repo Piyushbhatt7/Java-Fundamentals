@@ -16,6 +16,14 @@ public class project {
               if(userNum == myNum){
                 System.out.println("Woah! You guessed it right");
               }
+              else if(userNum > myNum) {
+
+                System.out.println("Your umber is too large");
+              }
+
+              else {
+                System.out.println("Your number is too small");
+              }
 
         } 
         while ();
