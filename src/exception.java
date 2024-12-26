@@ -6,5 +6,6 @@ public class exception {
 
          int[] marks = {90,89,89,98};
          System.out.println(marks[4]);
+         System.out.println("The name is Aman");
     }
 }
