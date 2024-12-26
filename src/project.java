@@ -1,4 +1,7 @@
 
+import java.util.Scanner;
+
+
 
 public class project {
     
@@ -26,6 +29,6 @@ public class project {
               }
 
         } 
-        while ();
+          while ();
     }
 }
