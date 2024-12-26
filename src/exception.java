@@ -12,8 +12,9 @@ public class exception {
          catch (Exception e) {
 
             // do thing afetr catching
-            System.out.println("The name is Aman");
+           
         }
+        System.out.println("The name is Aman");
          
          
     }
