@@ -11,11 +11,11 @@ public class project {
         
         Scanner sc = new Scanner(System.in);
         int myNum = (int)Math.random()*100;
-    
+        int userNum;
        
         do { 
               System.out.println("Guess my number: ");
-              int userNum = sc.nextInt();
+               userNum = sc.nextInt();
               if(userNum == myNum){
                 System.out.println("Woah! You guessed it right");
               }
@@ -29,6 +29,6 @@ public class project {
               }
 
         } 
-          while ();
+          while (userNum >= 0);
     }
 }
