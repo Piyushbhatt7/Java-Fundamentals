@@ -6,7 +6,7 @@ public class exception {
 
          int[] marks = {90,89,89,98};
 
-         try {
+         try { 
             System.out.println(marks[4]);
          } 
          catch (Exception e) {
