@@ -9,5 +9,13 @@ public class OOPS {
 
 public class Pen{
     
-    public 
+    public void main(){
+        String color;
+        String type;
+
+        public void write(){
+            System.out.println("Writing");
+        }
+        
+    }
 }
