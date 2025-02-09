@@ -8,7 +8,7 @@ public class Datatypes {
         // short - 2 
         // int - 4
         // long int - 8  
-        // float - 4
+        // float - 4 
         // double - 8  
         // char - 2
         // boolean - 1 true/false
